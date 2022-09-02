@@ -1,0 +1,24 @@
+.card_heading{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    height: 50px;
+    margin: 5px;
+}
+.card_value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.cards{
+    height: 250px;
+}
+.card_footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.card_text{
+    align-self:flex-end;
+}
